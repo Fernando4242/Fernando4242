@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://media3.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif?cid=ecf05e47bhsbogdjyxkjqjmfz6uxkdq8p58jdrqh1uu5pjan&rid=giphy.gif&ct=g"/>
+<img align="right" src="https://media3.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif?cid=ecf05e47bhsbogdjyxkjqjmfz6uxkdq8p58jdrqh1uu5pjan&rid=giphy.gif&ct=g" width="200px"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

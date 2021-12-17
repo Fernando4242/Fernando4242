@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on web development projects or robotics!
 - 🤔 I’m looking for help with React.js and Databases
 - 💬 Ask me about anything really i'll do my best to answer!
-- 📫 How to reach me: My discord is Fernando#4242
+- 📫 How to reach me: Join my discord server and feel free to ping me [VulpineR's Litte Tavern](https://discord.gg/44XTGfPCYP)
 - ⚡ Fun fact: I like chicken fingers and playing video games! 

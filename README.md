@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img align="right" src="https://media3.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif?cid=ecf05e47bhsbogdjyxkjqjmfz6uxkdq8p58jdrqh1uu5pjan&rid=giphy.gif&ct=g" width="200px"/>
+<img src="https://media1.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif?cid=790b7611610ebe80d1fa1d1f5d5a4e9abc2c8522d631b570&rid=giphy.gif&ct=g" height="300px" align="right"></img>
+<p align="right"><a href="https://giphy.com/gifs/art-pixel-8bit-2xu5zpSV3oqKcCSZ49">via GIPHY</a></p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ReactJS

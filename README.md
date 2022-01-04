@@ -9,3 +9,7 @@
 - 💬 Ask me about anything really i'll do my best to answer!
 - 📫 How to reach me: Join my discord server and feel free to ping me [VulpineR's Litte Tavern](https://discord.gg/44XTGfPCYP)
 - ⚡ Fun fact: I like chicken fingers and playing video games! 
+
+
+You can find more links here
+https://linktr.ee/Fernando4242

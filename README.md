@@ -4,7 +4,7 @@
 <p align="right"><a href="https://giphy.com/gifs/art-pixel-8bit-2xu5zpSV3oqKcCSZ49">via GIPHY</a></p>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning express.js
 - 👯 I’m looking to collaborate on web development projects or robotics!
 - 🤔 I’m looking for help with ReactJS and Databases
 - 💬 Ask me about anything really i'll do my best to answer!

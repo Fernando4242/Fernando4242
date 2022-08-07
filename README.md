@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I like chicken fingers and playing video games! 
 
 
-You can find more links here
-https://linktr.ee/Fernando4242
+<!-- You can find more links here
+https://linktr.ee/Fernando4242 -->

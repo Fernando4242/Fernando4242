@@ -10,6 +10,8 @@
 - 💬 Ask me about anything really i'll do my best to answer!
 - ⚡ Fun fact: I like chicken fingers and playing video games! 
 
+https://www.linkedin.com/in/fernport/
+
 
 <!-- You can find more links here
 https://linktr.ee/Fernando4242 -->

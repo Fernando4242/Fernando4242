@@ -21,7 +21,7 @@
     </a>
   </div>
   <div>
-    <a href="https://www.linkedin.com/in/fernport/" blank="_blank">
+    <a href="https://fernando4242.github.io/" blank="_blank">
      <img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'/>
     </a>
   </div>

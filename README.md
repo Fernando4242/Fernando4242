@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="padding-left:30px; margin-left:30px">
+<div>
   <img src="https://media1.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif?cid=790b7611610ebe80d1fa1d1f5d5a4e9abc2c8522d631b570&rid=giphy.gif&ct=g" height="300px" align="right"></img>
   <p align="right"><a href="https://giphy.com/gifs/art-pixel-8bit-2xu5zpSV3oqKcCSZ49">via GIPHY</a></p>
 <div/>
@@ -16,12 +16,12 @@
 
 <div>
   <div>
-    <a href="https://www.linkedin.com/in/fernport/" blank="_blank">
+    <a href="https://www.linkedin.com/in/fernport/" target="_blank">
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
     </a>
   </div>
   <div>
-    <a href="https://fernando4242.github.io/" blank="_blank">
+    <a href="https://fernando4242.github.io/" target="_blank">
      <img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'/>
     </a>
   </div>

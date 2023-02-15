@@ -9,7 +9,7 @@
   Hi there! I'm a Computer Engineering student at The University of Texas at Dallas, and I have a strong interest in the fields of web applications and robotics. While I enjoy working with both, my passion has been shifting more towards web technologies and applications lately.
   </p>
 
-    <p>
+  <p>
   That being said, I also have a solid understanding of the components required to build both simple autonomous and remote-controlled robots. These include motors, motor controllers, micro-controllers, sensors, and circuits, among others. With this knowledge, I am confident in my ability to tackle complex projects in the field of robotics.
   </p>
   

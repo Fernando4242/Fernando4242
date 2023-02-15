@@ -6,11 +6,15 @@
 <div/>
 <div>
   <p>
-  I'm a Computer Engineering student at The University of Texas at Dallas, I enjoy working in the fields of web apps and robotics. My passion has been recently leaning toward web technologies and apps. At the same time, I understand the components needed to make simple autonomous and remote-controlled robots. Including motors, motor controllers, micro-controllers, sensors, and circuits.
+  Hi there! I'm a Computer Engineering student at The University of Texas at Dallas, and I have a strong interest in the fields of web applications and robotics. While I enjoy working with both, my passion has been shifting more towards web technologies and applications lately.
   </p>
 
+    <p>
+  That being said, I also have a solid understanding of the components required to build both simple autonomous and remote-controlled robots. These include motors, motor controllers, micro-controllers, sensors, and circuits, among others. With this knowledge, I am confident in my ability to tackle complex projects in the field of robotics.
+  </p>
+  
   <p>
-  The languages I am most familiar with are Java, C++, and Javascript. Furthermore, I have worked with languages like C#, python, and LabView due to other projects.
+  I have extensive experience working with several programming languages, including Java, C++, and Javascript. In addition to these languages, I have also worked with other programming languages such as C#, Python, and LabView while working on various projects.
   </p>
 </div>  
 

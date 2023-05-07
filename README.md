@@ -10,7 +10,7 @@
   </p>
 
   <p>
-  That being said, I also have a solid understanding of the components required to build both simple autonomous and remote-controlled robots. These include motors, motor controllers, micro-controllers, sensors, and circuits, among others. With this knowledge, I am confident in my ability to tackle complex projects in the field of robotics.
+With my extensive knowledge of electrical components, including motors, motor controllers, micro-controllers, sensors, circuits, and other related technologies, I am well-equipped to take on challenging projects in the exciting field of robotics.
   </p>
   
   <p>
